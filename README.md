@@ -41,4 +41,4 @@ DEPARTMENT OF COMPUTER SCIENCE
 - RODHIYA ABDULSHAHEED-TOLANI, U23CS1009, [@Rodhiya07Aduke](https://github.com/Rodhiya07Aduke)
   
 ## Screenshot
-![Calculator Image](./images/calculator-pic.PNG)
+![Calculator Image](./calculator-pic.PNG)
